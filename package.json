@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
-  "version": "16.0.0",
-  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "name": "@ckeditor-custom/ckeditor5-build-classic-with-font",
+  "version": "16.0.1",
+  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor. fork from official repo and this project add font plugin",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
@@ -18,7 +18,8 @@
     "collaboration",
     "collaborative",
     "real-time",
-    "framework"
+    "framework",
+	"font"
   ],
   "main": "./build/ckeditor.js",
   "files": [
