@@ -1,6 +1,6 @@
 {
   "name": "@ckeditor-custom/ckeditor5-build-classic-with-font",
-  "version": "16.0.2",
+  "version": "16.1.2",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor. fork from official repo and this project add font plugin",
   "keywords": [
     "ckeditor5-build",
